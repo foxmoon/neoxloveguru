@@ -23,6 +23,9 @@ LoveGuru is a Next.js-based web application that provides users with AI-powered 
 - Personalized advice based on user questions and risk tolerance
 - Consensus opinion synthesizing multiple AI viewpoints
 
+### Homepage Screenshot
+
+![LoveGuru Homepage](public/screen.png)
 ### Installation
 
 1. Clone the repository:
