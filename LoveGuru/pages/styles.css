@@ -1,0 +1,30 @@
+/* 外部CSS文件 */
+.advisor-image {
+    width: 150px;
+    height: 150px;
+    background-image: url('/images/headers.png');
+    background-size: 750px 300px; /* 假设整张图片的大小是 750x300 像素 */
+    border-radius: 50%; /* 圆形头像 */
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+
+.advisor-romeo {
+    background-position: 0 0; /* 显示最左边的头像 */
+}
+
+.advisor-yuki {
+    background-position: -150px 0; /* 显示第二个头像 */
+}
+
+.advisor-emma {
+    background-position: -300px 0; /* 显示中间的头像 */
+}
+
+.advisor-idris {
+    background-position: -450px 0; /* 显示第四个头像 */
+}
+
+.advisor-priyanka {
+    background-position: -600px 0; /* 显示最右边的头像 */
+}
