@@ -25,7 +25,7 @@ LoveGuru is a Next.js-based web application that provides users with AI-powered 
 
 ### Homepage Screenshot
 
-![LoveGuru Homepage](public/screen.png)
+![LoveGuru Homepage](https://github.com/foxmoon/neoxloveguru/raw/master/LoveGuru/public/screen.png)
 ### Installation
 
 1. Clone the repository:
